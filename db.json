@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Ремонт №1",
+    "repair_type": 1,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur."
+  },
+  {
+    "title": "Ремонт №2",
+    "repair_type": 1,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur."
+  },
+  {
+    "title": "Ремонт №3",
+    "repair_type": 1,
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur."
+  }
+]
