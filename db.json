@@ -1,19 +1,34 @@
 {
-  "repairs": [
+  "posts": [
     {
-      "title": "Ремонт №1",
-      "repair_type": 1,
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur."
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
     },
     {
-      "title": "Ремонт №2",
-      "repair_type": 1,
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur."
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
     },
     {
-      "title": "Ремонт №3",
-      "repair_type": 1,
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur."
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
 }
